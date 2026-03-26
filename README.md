@@ -38,31 +38,18 @@ covid19-powerbi-dashboard-analysis/
 │   └── dashboard_preview.png
 │
 ├── README.md
-```
 
-## Dashboard Preview
-
-(Add your screenshots here after uploading images)
-
-## How to Use
-
-1. Download the `.pbix` file
-2. Open using Power BI Desktop
-3. Interact with filters and visuals to explore insights
-
-## What I Learned
+ What I Learned
 
 * Designing interactive dashboards for business use
 * Creating calculated measures using DAX
 * Data transformation using Power Query
 * Presenting data insights in a clear and structured way
 
-## Business Value
-
+Business Value
 * Helps stakeholders understand trends and patterns quickly
 * Supports data-driven decision making
 * Enables comparison across regions and time periods
 
-## Contact
-
+Contact
 Open to Business Analyst and Data Analyst opportunities.
